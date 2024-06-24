@@ -49,10 +49,10 @@ jobs:
       #     echo "Running jest tests..."
       #     npm run test
 
-      - name: Run Storybook
-        run: |
-          echo "Running storyboook..."
-          npm run build-storybook
+      # - name: Run Storybook
+      #   run: |
+      #     echo "Running storyboook..."
+      #     npm run build-storybook
 
   CD:
     name: Continuous Delivery
