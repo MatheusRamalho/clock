@@ -1,4 +1,4 @@
-# TRINOMATE
+# CLOCK
 
 <br />
 
@@ -50,7 +50,7 @@ Você pode visualizar o layout do projeto através [desse link](). É necessári
 
 ## 🚀 Deploy
 
-Você pode visualizar o deploy do projeto na vercel através [desse link]().
+Você pode visualizar o deploy do projeto na vercel através [desse link](https://clock-mat.vercel.app/).
 
 <br />
 
@@ -69,7 +69,7 @@ Antes de começar, verifique se atendeu aos seguintes requisitos:
 Clone o repositório
 
 ```bash
-git clone https://github.com/MatheusRamalho/coming-soon.git
+git clone https://github.com/MatheusRamalho/clock
 ```
 
 Utilize o **npm** para instalar as dependências do projeto.
